@@ -31,8 +31,7 @@ This project is a **Wearable Health Monitoring System** that collects real-time 
 | **Bluetooth API (Future Enhancement)** | Wearable Device Communication |
 | **AI Chatbot (Future Enhancement)** | Smart Health Assistant |
 
----
 
 
-git clone https://github.com/your-username/wearable-health-monitoring.git
-cd wearable-health-monitoring
+
+
